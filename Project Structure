@@ -1,8 +1,0 @@
-simple-maven-project/
-├── pom.xml
-└── src
-    └── main
-        └── java
-            └── com
-                └── example
-                    └── HelloWorld.java
